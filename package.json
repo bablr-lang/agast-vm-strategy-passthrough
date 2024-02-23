@@ -1,0 +1,35 @@
+{
+  "name": "@bablr/agast-vm-strategy-passthrough",
+  "version": "0.0.0",
+  "description": "An agAST VM strategy for validating token streams",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "type": "module",
+  "exports": {
+    ".": "./lib/index.js"
+  },
+  "files": [
+    "lib/**/*.js"
+  ],
+  "sideEffects": false,
+  "dependencies": {
+    "@bablr/agast-vm-helpers": "github:bablr-lang/agast-vm-helpers#32e7d34c07a9f81b321c6f418c5d04bf4977f172",
+    "@bablr/helpers": "github:bablr-lang/helpers#8ef702024395635c9a05fe4c9f803a48f87d902c",
+    "iter-tools-es": "^7.5.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "7.22.15",
+    "@babel/core": "7.22.20",
+    "@bablr/eslint-config-base": "github:bablr-lang/eslint-config-base#a49dbe6861a82d96864ee89fbf0ec1844a8a5e8e",
+    "enhanced-resolve": "^5.12.0",
+    "eslint": "^8.47.0",
+    "eslint-import-resolver-enhanced-resolve": "^1.0.5",
+    "eslint-plugin-import": "^2.27.5",
+    "prettier": "^2.0.5"
+  },
+  "repository": "git@github.com:bablr-lang/agast-vm-strategy-passthrough.git",
+  "homepage": "https://github.com/bablr-lang/agast-vm-strategy-passthrough",
+  "author": "Conrad Buck <conartist6@gmail.com>",
+  "license": "MIT"
+}
