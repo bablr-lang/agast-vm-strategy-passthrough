@@ -14,7 +14,7 @@
   ],
   "sideEffects": false,
   "dependencies": {
-    "@bablr/agast-vm-helpers": "github:bablr-lang/agast-vm-helpers#c2257db07561a10edf337e5ee59251ed6fde74d3",
+    "@bablr/agast-vm-helpers": "github:bablr-lang/agast-vm-helpers#4f5f317fcad02fc87d0ea1b4a0fe0bb7e90a69d0",
     "@bablr/helpers": "github:bablr-lang/helpers#8ef702024395635c9a05fe4c9f803a48f87d902c",
     "iter-tools-es": "^7.5.3"
   },

@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@bablr/agast-vm-helpers':
-    specifier: github:bablr-lang/agast-vm-helpers#c2257db07561a10edf337e5ee59251ed6fde74d3
-    version: github.com/bablr-lang/agast-vm-helpers/c2257db07561a10edf337e5ee59251ed6fde74d3
+    specifier: github:bablr-lang/agast-vm-helpers#4f5f317fcad02fc87d0ea1b4a0fe0bb7e90a69d0
+    version: github.com/bablr-lang/agast-vm-helpers/4f5f317fcad02fc87d0ea1b4a0fe0bb7e90a69d0
   '@bablr/helpers':
     specifier: github:bablr-lang/helpers#8ef702024395635c9a05fe4c9f803a48f87d902c
     version: git/github.com+bablr-lang/helpers/8ef702024395635c9a05fe4c9f803a48f87d902c
@@ -2080,8 +2080,8 @@ packages:
       '@iter-tools/imm-stack': 1.1.0
     dev: false
 
-  github.com/bablr-lang/agast-vm-helpers/c2257db07561a10edf337e5ee59251ed6fde74d3:
-    resolution: {tarball: https://codeload.github.com/bablr-lang/agast-vm-helpers/tar.gz/c2257db07561a10edf337e5ee59251ed6fde74d3}
+  github.com/bablr-lang/agast-vm-helpers/4f5f317fcad02fc87d0ea1b4a0fe0bb7e90a69d0:
+    resolution: {tarball: https://codeload.github.com/bablr-lang/agast-vm-helpers/tar.gz/4f5f317fcad02fc87d0ea1b4a0fe0bb7e90a69d0}
     name: '@bablr/agast-vm-helpers'
     version: 0.0.0
     dependencies:
