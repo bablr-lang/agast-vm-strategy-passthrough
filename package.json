@@ -14,9 +14,7 @@
   ],
   "sideEffects": false,
   "dependencies": {
-    "@bablr/agast-vm-helpers": "github:bablr-lang/agast-vm-helpers#b770edcd3ef0d9e3a08f5201b27e3045df12a82b",
-    "@bablr/helpers": "github:bablr-lang/helpers#8ef702024395635c9a05fe4c9f803a48f87d902c",
-    "iter-tools-es": "^7.5.3"
+    "@bablr/agast-vm-helpers": "github:bablr-lang/agast-vm-helpers#58093b613d49efcab426ef0a482fbd16f80c1b39"
   },
   "devDependencies": {
     "@babel/cli": "7.22.15",
