@@ -14,12 +14,12 @@
   ],
   "sideEffects": false,
   "dependencies": {
-    "@bablr/agast-vm-helpers": "github:bablr-lang/agast-vm-helpers#58093b613d49efcab426ef0a482fbd16f80c1b39"
+    "@bablr/agast-vm-helpers": "0.5.0"
   },
   "devDependencies": {
     "@babel/cli": "7.22.15",
     "@babel/core": "7.22.20",
-    "@bablr/eslint-config-base": "github:bablr-lang/eslint-config-base#a49dbe6861a82d96864ee89fbf0ec1844a8a5e8e",
+    "@bablr/eslint-config-base": "github:bablr-lang/eslint-config-base#49f5952efed27f94ee9b94340eb1563c440bf64e",
     "enhanced-resolve": "^5.12.0",
     "eslint": "^8.47.0",
     "eslint-import-resolver-enhanced-resolve": "^1.0.5",
